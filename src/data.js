@@ -24,10 +24,10 @@ export const hero = { mp4: 'videos/showreel.mp4', youtubeBg: 'tiMN-dEoGSs', show
 // "video" = YouTube ID (the part after v= in the link). Replace YOUTUBE_ID with YOUR OWN edits.
 export const shorts = [
  { label: 'Short 1', tag: 'Short-form Edit', caption: 'Every frame matters', video: 'F-G5pgRCUPo', a: '#2a2f3a', b: '#0b0c10' },
-  { label: 'Moody aesthetic', tag: 'Text Animation', caption: 'Sound design is storytelling', video: 'YOUTUBE_ID', a: '#d9d9dc', b: '#6b6b70' },
-  { label: 'City energy', tag: 'Text Animation', caption: 'Pacing creates tension', video: 'YOUTUBE_ID', a: '#1b2a6b', b: '#0b1030' },
-  { label: 'Aerial story', tag: 'Text Animation', caption: 'Scale tells a story', video: 'YOUTUBE_ID', a: '#1c1c1f', b: '#050506' },
-  { label: 'Neon nights', tag: 'Text Animation', caption: 'Color sets the mood', video: 'YOUTUBE_ID', a: '#0fa56b', b: '#06402b' },
+  { label: 'Short 2', tag: 'Text Animation', caption: 'Sound design is storytelling', video: 'snSGiLtHESE', a: '#3a3a40', b: '#16161a' },
+  { label: 'Short 3', tag: 'Beat Sync', caption: 'Pacing creates tension', video: 'NPKQYjLorAA', a: '#1b2a6b', b: '#0b1030' },
+  { label: 'Short 4', tag: 'Color Grade', caption: 'Color sets the mood', video: 'iHw_OchTkUE', a: '#0fa56b', b: '#06402b' },
+  { label: 'Short 5', tag: 'Cinematic Edit', caption: 'Scale tells a story', video: 'lXrh8PufoJE', a: '#1c1c1f', b: '#050506' },
 ]
 // LONG-FORM (16:9) videos. video = YouTube ID, or use file: '/videos/long/name.mp4' for a file in public/
 export const longform = [
